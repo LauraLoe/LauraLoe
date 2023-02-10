@@ -1,4 +1,5 @@
 ## Hey, I am Laura Löschmann 
+
 ### Junior Full-Stack Web Developer!👩🏻‍💻✨ 
 ### Python, Ruby / Ruby on Rails, JavaScript, HTML, CSS
    
