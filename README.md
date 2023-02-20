@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning more JavaScript and React.
 
-- 🌈 Besides coding I love being in nature, reading novels, doing yoga and recently discovered my joy of surfing 🏄🏻‍♀️
+- 🌈 Besides coding I love being in nature, reading novels, doing yoga and recently discovered my joy of surfing. 🏄🏻‍♀️
 
 - 📫 Reach me here: <a href="https://linkedin.com/in/lauraloeschmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauraloeschmann" height="30" width="40" /></a>
 
