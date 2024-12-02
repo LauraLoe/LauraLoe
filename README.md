@@ -1,12 +1,10 @@
 ## Hey, I am Laura Löschmann 
 
 ### Junior Full-Stack Web Developer!👩🏻‍💻✨ 
-### Python, Ruby / Ruby on Rails, JavaScript, HTML, CSS
+### Ruby / Ruby on Rails, JavaScript, HTML, CSS
    
 
 - 🤓 I have a Master's degree in Information Systems and just finished a 3-months full time Full-Stack Web Development Bootcamp at Le Wagon Berlin. 💥 
-
-- 🌱 I’m currently learning more JavaScript and React.
 
 - 🌈 Besides coding I love being in nature, reading novels, doing yoga and recently discovered my joy of surfing. 🏄🏻‍♀️
 
